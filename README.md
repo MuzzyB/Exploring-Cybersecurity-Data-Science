@@ -16,3 +16,7 @@ Exploring Cybersecurity Data Science
  In this paper we will look at how using data analytics techniques can aid in the analysis
  of cybersecurity data by performing a comparison of dimensionality reduction techniques,
  and of clustering techniques on some cybersecurity datasets
+
+
+This repo is a work in progress and the anomaly detecion comparisons will be together with 
+the detail information about the project was conduected will be added soon.
