@@ -18,5 +18,5 @@ Exploring Cybersecurity Data Science
  and of clustering techniques on some cybersecurity datasets
 
 
-This repo is a work in progress and the anomaly detecion comparisons will be together with 
+This repo is a work in progress and the anomaly detection comparisons will be together with 
 the detail information about the project was conduected will be added soon.
