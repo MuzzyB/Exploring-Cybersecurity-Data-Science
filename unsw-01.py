@@ -1,4 +1,6 @@
-### This program creates a class that makes the UNSW-NB15 dataset and its associated predictor matrices
+### This program makes the UNSW-NB15 dataframe and its associated predictor matrices
+###  and saves the outputs in pickle files
+
 
 # Load packages
 from UNSWNB15_Data import UNSWNB15

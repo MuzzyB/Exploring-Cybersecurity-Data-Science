@@ -1,4 +1,6 @@
-### This program creates a class that makes the NSL KDD dataset and its associated predictor matrices
+### This program makes the NSL KDD dataframe and its associated predictor matrices
+###  and saves the outputs in pickle files
+
 
 # Load packages
 from NSL_KDD_Data import NSLKDD
