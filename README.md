@@ -17,4 +17,4 @@
 3. DimRed contains a class with functions that create the various dimensionality reduction outputs (PCA, FAMD, UMAP, t-SNE, ISOMAP).
 4. Clustering.py contains a class with functions that create the various clustering outputs
 
-   Since the files are very large, each output was saved to a pickle file once avaialble to avoid rerunning. dask parallel processing packages was used where methods had that option.
+   Since the files are very large, each output was saved to a pickle file once available to avoid rerunning. dask parallel processing package was used where methods had that option.
