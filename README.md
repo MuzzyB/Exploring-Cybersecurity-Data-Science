@@ -20,4 +20,3 @@
    Since the files are very large, each output was saved to a pickle file once available to avoid rerunning. dask parallel processing package was used where methods had that option.
 5. nslkddd-01.py and unsw-01.py create the input files, nslkdd_dimRed75.py and unsw_dimRed75.py create the dimemnsionality reduction outputs, cluster_uMap.py create the clustering outputs.
 
-Note: The Anomaly detection section will be added soon.
