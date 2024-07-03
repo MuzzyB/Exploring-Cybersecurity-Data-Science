@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software or images, please cite it as below."
+authors:
+  - family-names: "Nkhoma"
+    given-names: "Muuzaani"
+title: "Exploring Cybersecurity Data Science: Dimensionality Reduction, Cluster Analysis, and Anomaly Detection"
+version: "1.0.0"
+date-released: "2024-05-01"
+url: "https://github.com/MuzzyB/Exploring-Cybersecurity-Data-Science"
